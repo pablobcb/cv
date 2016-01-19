@@ -3,7 +3,7 @@
     pablo.bcb@gmail.com
 
 
-I'm really into reactive functional programming, Haskell, Elm and Scala. On my free time I also produce eletronic [music](http://www.ektoplazm.com/free-music/photophobia-beneath-the-tides-of-wisdom-spins-the-undertow-of-love), and have a passion for audio synthesizers.
+I'm really into functional programming, Elixir, Elm and Scala. On my free time I also produce eletronic [music](http://www.ektoplazm.com/free-music/photophobia-beneath-the-tides-of-wisdom-spins-the-undertow-of-love), and have a passion for audio synthesizers.
 
 ## Educational Background
 

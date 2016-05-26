@@ -17,7 +17,7 @@ intended to “provide assistance to students with financial difficulty and prov
 ### » [TecGraf - PUC Rio](https://en.wikipedia.org/wiki/Lua_(programming_language)#History) (March 2015 – Current)
 *Main software provider for the brazilian state oil company; leading graphical computing research institute; birthplace of Lua programming language.*
 
-Using **Lua** and **C++11**, I help developing v3o2, a geoprocessing and sysmic data 3D visualization tool. I'm also responsible for developing a log visualization system for the v3o2 plataform using **Scala**, **React.js** and **Mysql**.
+Using **Lua** and **C++11**, I help developing v3o2, a geoprocessing and sysmic data 3D visualization tool.
 
 ### » [Ideais / B2W](https://en.wikipedia.org/wiki/B2W) (March 2014 – January 2015) 
 *Biggest e-commerce company in Latin America, managing brands such as Americanas.com, Submarino, Shoptime, B2W Viagens, Ingresso.com and SouBarato.*

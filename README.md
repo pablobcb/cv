@@ -14,7 +14,7 @@ intended to “provide assistance to students with financial difficulty and prov
 
 ## Professional Experience
 
-### » [TecGraf - PUC Rio](https://en.wikipedia.org/wiki/Lua_(programming_language)#History) (March 2015 – Current)
+### » [TecGraf - PUC Rio](https://en.wikipedia.org/wiki/Lua_(programming_language)#History) (March 2015 – March 2016)
 *Main software provider for the brazilian state oil company; leading graphical computing research institute; birthplace of Lua programming language.*
 
 Using **Lua** and **C++11**, I help developing v3o2, a geoprocessing and sysmic data 3D visualization tool.

@@ -2,8 +2,28 @@
 
     pablo.bcb@gmail.com
 
+## Cover Letter
 
-I'm really into functional programming, Elixir, Elm and Scala. On my free time I also produce eletronic [music](http://www.ektoplazm.com/free-music/photophobia-beneath-the-tides-of-wisdom-spins-the-undertow-of-love), and have a passion for audio synthesizers.
+Hello,
+
+My name is Pablo Botelho and I'm a software engineer looking for a remote job.  I'm 27 years old, currently living in Rio de Janeiro, Brazil. I saw this position on hacker news and got interested.
+
+I'm really into functional programming, specially when it comes with immutability. My my last job was at TecGraf, which is the lab where the Lua language was created. I worked with a team of 50+ developers, and my largest contribution there, in my opinion, was managing to show many people the new capabilities C++11 brings to the table, and eventually being tasked with teaching everyone the benefits that can be added by functional programming to an OO realm, and convincing everyone that we should switch to C++11. I’m happy to say the switch was successful, and (among many things) there are no more boost functions :-)
+
+I'm an audio synthesis aficionado, so when I'm not coding I like to spend my time composing music.
+ 
+In order to bring together the two passions of my life, I decided to develop a polyphonic browser-based synth with MIDI support. You can see the code  at https://github.com/pablobcb/elm-lead, and you can try it live at http://pablobcb.github.io/web-lead/ . The motivation of this project was to learn about web front end technologies, so I paired up with a friend and once in a while we shared screens on Skype and did some pair programming. He would advise me on how to build semantic and clean CSS and learn a bit about how to write immutable pure functional code, lots of fun involved.
+
+I initially chose JavaScript, Stylus for the CSS, Elm for the UI. Elm is a pure functional  web client platform inspired on Haskell. As the project was growing larger, the lack of proper typing in JS was a big drawback, so we experimented with type-checking systems such as Facebook Flow and Microsoft TypeScript, settling for the latter. The Synth is not complete yet: I intend to implement all of the features from the original Nord.
+ 
+I'd like to point that no CSS frameworks were used, and all SVGs were made by me on Inkscape, of course they could be better but I'm really proud of them since I haven't touched a graphical tool since MS PaintBrush on my first IBM 386.
+ 
+I was hoping we could set a Skype interview.
+
+Cheers,
+
+Pablo Botelho
+
 
 ## Educational Background
 

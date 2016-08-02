@@ -6,7 +6,7 @@
 
 Hello,
 
-My name is Pablo Botelho and I'm a software engineer looking for a remote job.  I'm 27 years old, currently living in São Paulo, Brazil.
+My name is Pablo Botelho and I'm a software engineer looking for a new Job.  I'm 27 years old, currently living in São Paulo, Brazil.
 
 I'm really into functional programming, specially when it comes with immutability. My my last job was at TecGraf, which is the lab where the Lua language was created. I worked with a team of 50+ developers, and my largest contribution there, in my opinion, was managing to show many people the new capabilities C++11 brings to the table, and eventually being tasked with teaching everyone the benefits that can be added by functional programming to an OO realm, and convincing everyone that we should switch to C++11. I’m happy to say the switch was successful, and (among many things) there are no more boost functions :-)
 

@@ -51,7 +51,7 @@ Using **Grails**, **AWS**, **Node.js**, **Redis**, **Mysql**, **Mongodb**, imple
 
 Using **Lua 5.1**, **C** and **SQLite**, developed the ticketing system used by the Subway, Train and Ferryboat during the 2014 FIFA World Cup. Embedded on a POS (Point of Sale), running on PertOS, the system managed the cash flow, while interacting with RS-232 peripherals to read and write to MiFare and SAM cards
 
-### » VAT Group / IP.TV (August 2011 – August 2013)
+### » VAT Group / [IP.TV](https://ip.tv) (August 2011 – August 2013)
 *IT services company geared towards mass education and corporate communication*
 
 Implementing the Virtual Learning Environment for the MyClass e-learning platform on **Android devices**, writing a **SCORM** compliant player and supporting camera integration and facial recognition, using the native SDK and **SQLite**

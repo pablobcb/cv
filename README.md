@@ -64,17 +64,17 @@ Implementing with **Microsoft Active Discovery**, **Python** and **PostgreSQL** 
 
 Designing and implementing the new Human Resources internal system using the **Google Web Toolkit** and **Hibernate** with **PostgreSQL**.
 
-## » [Módulo Security](https://www.modulo.com.br/) (October 2008 – April 2009)
+### » [Módulo Security](https://www.modulo.com.br/) (October 2008 – April 2009)
 *Information Security consultancy specialized in governance, risk and compliance*
 
 Within the Internal Systems divisions, was part of the team (4) building requirement models and implementing diverse management-support Web applications in **C#.NET**, such as time-sheets, financial and sales reports or meeting planning, persisting on **Microsoft SQL Server** databases through the **XPO** framework.
 
-## » Oip Software (September 2007 – February 2008)
+### » Oip Software (September 2007 – February 2008)
 *Prof. Luis Fernando Seibel's software house, incubated at PUC-Rio's Genesis Institute*
 
 Implementing an e-commerce store management system, keeping track of sales, products, suppliers, etc.; authentication and authorization; using **PHP** and **MySQL**.
 
-## » [Oswaldo Cruz Foundation](https://en.wikipedia.org/wiki/Oswaldo_Cruz_Foundation) (January 2007 – September 2007)
+### » [Oswaldo Cruz Foundation](https://en.wikipedia.org/wiki/Oswaldo_Cruz_Foundation) (January 2007 – September 2007)
 
 *Often considered one of the world's main public health institutions, doing R&D on bio-medical sciences*
 

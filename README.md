@@ -1,38 +1,40 @@
 # Pablo Britto de Carvalho Botelho Carneiro Lins
+<pablo.bcb@gmail.com>
 
-    pablo.bcb@gmail.com
 
-## Cover Letter
+[github](https://github.com/pablobcb)
 
-Hello,
+[LinkedIn](https://www.linkedin.com/in/pablo-botelho-lins/)
 
-My name is Pablo Botelho and I'm a software engineer looking for a new Job.  I'm 27 years old, currently living in São Paulo, Brazil.
-
-I'm really into functional programming, specially when it comes with immutability. My my last job was at TecGraf, which is the lab where the Lua language was created. I worked with a team of 50+ developers, and my largest contribution there, in my opinion, was managing to show many people the new capabilities C++11 brings to the table, and eventually being tasked with teaching everyone the benefits that can be added by functional programming to an OO realm, and convincing everyone that we should switch to C++11. I’m happy to say the switch was successful, and (among many things) there are no more boost functions :-)
-
-I'm an audio synthesis aficionado, so when I'm not coding I like to spend my time composing music.
- 
-In order to bring together the two passions of my life, I decided to develop a polyphonic browser-based synth with MIDI support. You can see the code  at https://github.com/pablobcb/elm-lead, and you can try it live at http://pablobcb.github.io/web-lead/ . The motivation of this project was to learn about web front end technologies, so I paired up with a friend and once in a while we shared screens on Skype and did some pair programming. He would advise me on how to build semantic and clean CSS and learn a bit about how to write immutable pure functional code, lots of fun involved.
-
-I initially chose JavaScript, Stylus for the CSS, Elm for the UI. Elm is a pure functional  web client platform inspired on Haskell. As the project was growing larger, the lack of proper typing in JS was a big drawback, so we experimented with type-checking systems such as Facebook Flow and Microsoft TypeScript, settling for the latter. The Synth is not complete yet: I intend to implement all of the features from the original Nord.
- 
-I'd like to point that no CSS frameworks were used, and all SVGs were made by me on Inkscape, of course they could be better but I'm really proud of them since I haven't touched a graphical tool since MS PaintBrush on my first IBM 386.
- 
-I was hoping we could set a Skype interview.
-
-Cheers,
-
-Pablo Botelho
-
+## Intro
+My name is Pablo Botelho and I'm a software engineer looking for a new remote Job. I'm 30 years old, currently living in São Paulo, Brazil.
 
 ## Educational Background
 
 ### Bachelor's Degree in Information Systems (2006 – 2011)
-from the Pontifical Catholic University of Rio de Janeiro
-with a Bolsa PUC scholarship granted by the Vice Reitoria Comunitária
-intended to “provide assistance to students with financial difficulty and proven academic achievement”
+
+from the [Pontifical Catholic University](http://www.puc-rio.br/english/) of Rio de Janeiro with a Bolsa PUC scholarship granted by the Vice Reitoria Comunitária intended to “provide assistance to students with financial difficulty and proven academic achievement”.
 
 ## Professional Experience
+
+### » [BairesDev](https://www.bairesdev.com/) (June 2018 – Current) 
+_100% Remote Software House_
+
+Developed several micro-services using **Node.js**, **Python**, **Go**, **DynamoDB**, **Serverless**, **S3**, **ECS** and **AWS** in general. Infrastructure was provisioned by **Terraform**.
+
+### » [Paggi](https://www.paggi.com/) - Incube Group (January 2018 – June 2018) 
+_Online, mobile and physical payment company_
+
+Using **Elixir** and **Scrum**, I have developed an authorization & authentication service, persisting users and permissions on **ArangoDB**, and managing **JWT** tokens with **Redis** and **Guardian**. Events are propagated by **SQS** and **SNS**. Documentation and data validation were handled by **Phoenix Swagger**. Its deployed with **Ansible** on **EC2** using docker containers. 
+
+Refactor a legacy **C** embedded application for the Point of Sale in **Lua**, wrapping battle tested **C** shared libraries with **Lua** code, persisting data on **SQLite** and communicating with servers through **LuaSocket**.
+
+Using **Clojure** and **Java**, implemented a micro-service to integrate with a bank **SOAP** API in order generate pdf money orders.
+
+### » [Vá de Taxi](https://vadetaxi.com.br/) - Incube Group (November 2016 – January 2018)
+_Cab hailing and enterprise transportation app_
+
+Using **Clojure/CLJS**, **Node.js**, **Java** and **PHP**, I was responsible for maintaining and developing the company's backend. **Clojure** was my go-to language, but I believe that every task has its right tool. Microservices are deployed to **ECS**, communicating with each other mainly through **SNS** + **SQS** buses. Data is persisted on **MySQL** and **MongoDB**. Scrum methodology is used, alongside with **BDD**.
 
 ### » [TecGraf - PUC Rio](https://en.wikipedia.org/wiki/Lua_(programming_language)#History) (March 2015 – March 2016)
 *Main software provider for the brazilian state oil company; leading graphical computing research institute; birthplace of Lua programming language.*
@@ -44,7 +46,7 @@ Using **Lua** and **C++11**, I help developing v3o2, a geoprocessing and sysmic 
 
 Using **Grails**, **AWS**, **Node.js**, **Redis**, **Mysql**, **Mongodb**, implemented new features for the BSeller platform, integrating  with several third-party marketplaces, payment gateways and the post office webservices
 
-### »  RioCardTI (August 2013 – March 2014)
+### »  [RioCardTI](http://www.riocardti.com.br/) (August 2013 – March 2014)
 *Company responsible for developing and mantaining the Rio de Janeiro public transportation ticketing system*
 
 Using **Lua 5.1**, **C** and **SQLite**, developed the ticketing system used by the Subway, Train and Ferryboat during the 2014 FIFA World Cup. Embedded on a POS (Point of Sale), running on PertOS, the system managed the cash flow, while interacting with RS-232 peripherals to read and write to MiFare and SAM cards
@@ -57,7 +59,7 @@ Developing the platform's RESTful web-services in **Python** and **MySQL**, whic
 
 Implementing with **Microsoft Active Discovery**, **Python** and **PostgreSQL** the back-end of a highly scalable file distribution system, multicasting from a central point, and providing active transmission control and reliable delivery.
 
-### » Fundação para Infância e Adolescência - RJ (August 2010 – June 2011)
+### » [Fundação para Infância e Adolescência](http://www.fia.rj.gov.br/) - RJ (August 2010 – June 2011)
 *State government organ linked to the Social Assistance and Human Rights' Committee*
 
 Designing and implementing the new Human Resources internal system using the **Google Web Toolkit** and **Hibernate** with **PostgreSQL**.

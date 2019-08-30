@@ -7,7 +7,7 @@
 [LinkedIn](https://www.linkedin.com/in/pablo-botelho-lins/)
 
 ## Intro
-My name is Pablo Botelho and I'm a software engineer looking for a new remote Job. I'm 30 years old, currently living in São Paulo, Brazil.
+My name is Pablo Botelho and I'm a software engineer. I'm 30 years old, currently living in São Paulo, Brazil.
 
 ## Educational Background
 
